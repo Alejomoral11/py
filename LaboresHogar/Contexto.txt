@@ -1,0 +1,7 @@
+Cesar Alejandro Morales Herrera 
+
+Porgramacion 
+
+En un hogar donde varias personas comparten la vivienda (roommates), las tareas del hogar deben ser organizadas y repartidas de forma equitativa para evitar conflictos. Actualmente lo hacen con notas en papel o por mensajes, pero eso genera olvidos y confusiones.
+
+en los objetivos de el ejecicio , se tiene en cuenta registrar integrantes d ela casa , tareas con fechas y prioridades y tares completades y sin completar 
